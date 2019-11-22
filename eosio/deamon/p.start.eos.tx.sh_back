@@ -1,0 +1,1 @@
+nohup /var/www/html/application/controllers/cron/start_eos_tx.sh &
